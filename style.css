@@ -1,0 +1,37 @@
+.body {
+    background-color: #996633;
+}
+#gameholder {
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#title {
+    width: 600px;
+    height: 150px;
+    background-image:url('');
+}
+
+.mole1:hover, .mole2:hover, .mole3:hover, .mole4:hover, .mole5:hover, .mole6:hover, .mole7:hover, .mole8:hover, .badger:hover{
+    background-image:url('https://image.shutterstock.com/image-photo/pile-dirt-isolated-on-white-260nw-471086210.jpg');
+    cursor: pointer;
+    width: 200px;
+    height: 200px;
+    background-position: center;
+}
+.mole1:active {
+    background-image:url('https://www.gardensall.com/wp-content/uploads/2018/05/How-to-get-rid-of-moles.jpg');
+    
+    width: 200px;
+    height: 200px;
+    background-position: center;
+}
+
+.mole1, .mole2, .mole3, .mole4, .mole5, .mole6, .mole7, .mole8, .badger{
+    width: 200px;
+    height: 200px;
+    
+    float: left;
+    background-image:url('https://cdn5.vectorstock.com/i/thumb-large/22/69/pile-of-ground-heap-of-soil-isolated-on-white-vector-21872269.jpg');
+}
+
