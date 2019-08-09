@@ -19,13 +19,17 @@
     height: 200px;
     background-position: center;
 }
-.mole1:active {
-    background-image:url('https://www.gardensall.com/wp-content/uploads/2018/05/How-to-get-rid-of-moles.jpg');
-    
+.mole1:active, .mole2:active, .mole3:active, .mole4:active, .mole5:active, .mole6:active, .mole7:active, .mole8:active{
+    background-image:url('https://www.wildlifexteam.com/userfiles/filemanager/oa2sbf35vc9uiksbe54h/'); 
     width: 200px;
     height: 200px;
-    background-position: center;
-}
+  }
+
+  .badger:active{ 
+    background-image: url("https://www.lewis-clark.org/media/new-images/an_BadgersGallery.jpg");
+width: 200px;
+width: 200px;
+  }
 
 .mole1, .mole2, .mole3, .mole4, .mole5, .mole6, .mole7, .mole8, .badger{
     width: 200px;
